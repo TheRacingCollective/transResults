@@ -52,14 +52,7 @@ class TransResultCalculator(object):
         return '{:02g}H {:02g}M'.format(hours, minutes)
 
 
-terSignups = ['willschrimshaw', 's2martin', 'carl_hopps', 'charlesabeasley', 'radhartgeorge', 'dr_stav', 'si_hunter1',
-              'richyjmo', 'ihhudson01', 'masondurant', 'nerohadsi', 'dulcepedroso1', 'jimarmshaw', 'jsallan918',
-              'dubert01', 'markcjagar', 'dave_blogs', 'verangosi', 'pedurr1', 'miscsheep', 'milesresso', '_timwalton_',
-              'paulwilliamslab', 'rob_webb_dbbc', 'lynd_nick', 'leeboybrown', 'hlarbalestier', 'sam88thompson',
-              'nicholasbarna19', 'cimermannicolas', 'chris_c_wilcox', 'lizziej61392895', 'baston_john', 'im_ed_m',
-              'nickyshaw12', 'timwelsh_', 'gfromabove', 'rideoffline', 'p_boynton', 'nicktatt', 'chasingpeloton',
-              'rms2382', 'beth_jacks12', 'rhodsprice', 'jamieol06455602', 'clarewalkeden', 'liambromiley',
-              'gutsibikes']
+terSignups = []
 
 
 def run_update(upload=False):
